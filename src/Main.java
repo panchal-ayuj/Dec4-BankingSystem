@@ -8,7 +8,6 @@ public class Main {
         s1.withdraw(200);
         s1.withdraw(200000);
         s1.viewTransactionHistory();
-
         c1.viewTransactionHistory();
         c1.deposit(1000);
         c1.withdraw(200);
